@@ -20,4 +20,5 @@ I would have liked to do more scripting in small batches rather than all at once
   
 **What other techniques would you be interested in using in your project?**  
 I would like to learn more scripting tricks to help reduce the framework needed in the repository. Currently, there are a lot of files that some people may not be familiar with. I would however, like to simplify the repository so that anyone that can understand a bit of code can follow.  
+ 
 I would also like to clean the data more as currently we are working with a dataset found online that is already mainly cleaned and ready to use. However, I feel like I would understand the data even more if I cleaned it myself, so even though the work would be a bit more rigorous, I feel it would lead to a better project overall.
